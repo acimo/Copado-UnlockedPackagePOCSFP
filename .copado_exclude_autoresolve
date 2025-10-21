@@ -1,0 +1,23 @@
+#copied from copado doc
+
+*Exclude all Apex class files from auto-resolve
+**/classes/*.cls
+
+*Exclude all Apex trigger files from auto-resolve
+**/triggers/*.trigger
+
+*Exclude all component files from auto-resolve
+**/component/*.component
+
+*Exclude all visualforce page files from auto-resolve
+**/pages/*.page
+
+*Exclude all Lightning component bundle directories from auto-resolve
+**/aura/**
+
+*Exclude all Lightning web component bundle directories from auto-resolve
+**/lwc/**
+
+*Exclude all Lightning all layouts from auto-resolve
+# **/layouts/*.layout-meta.xml
+
