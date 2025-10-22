@@ -2,13 +2,13 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": false
     },
     {
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "path": "NebulaLogger",
-      "default": false,
+      "default": true,
       "package": "NebulaLoggerPoc",
       "versionDescription": ""
     }
