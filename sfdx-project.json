@@ -16,7 +16,7 @@
   "name": "StandardProject",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "65.0",
+  "sourceApiVersion": "64.0",
   "packageAliases": {
     "NebulaLoggerPoc": "0HogL0000000eGnSAI"
   }
