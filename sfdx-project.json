@@ -11,6 +11,14 @@
       "default": true,
       "package": "NebulaLoggerPoc",
       "versionDescription": ""
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "HelloWorld",
+      "default": false,
+      "package": "HelloWorld",
+      "versionDescription": ""
     }
   ],
   "name": "StandardProject",
@@ -20,6 +28,7 @@
   "packageAliases": {
     "NebulaLoggerPoc": "0HogL0000000eGnSAI",
     "NebulaLoggerPoc@1.0.0-0-feature/US-0000024": "04tgL00000089kTQAQ",
-    "NebulaLoggerPoc@0.1.0-1-main": "04tgL00000089nhQAA"
+    "NebulaLoggerPoc@0.1.0-1-main": "04tgL00000089nhQAA",
+    "HelloWorld": "0HogL0000000egbSAA"
   }
 }
