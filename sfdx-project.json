@@ -2,13 +2,13 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": false
     },
     {
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "path": "NebulaLogger",
-      "default": false,
+      "default": true,
       "package": "NebulaLoggerPoc",
       "versionDescription": ""
     }
@@ -16,8 +16,10 @@
   "name": "StandardProject",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "65.0",
+  "sourceApiVersion": "64.0",
   "packageAliases": {
-    "NebulaLoggerPoc": "0HogL0000000eGnSAI"
+    "NebulaLoggerPoc": "0HogL0000000eGnSAI",
+    "NebulaLoggerPoc@1.0.0-0-feature/US-0000024": "04tgL00000089kTQAQ",
+    "NebulaLoggerPoc@0.1.0-1-main": "04tgL00000089nhQAA"
   }
 }
