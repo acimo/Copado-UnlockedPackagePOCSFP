@@ -19,6 +19,7 @@
   "sourceApiVersion": "64.0",
   "packageAliases": {
     "NebulaLoggerPoc": "0HogL0000000eGnSAI",
-    "NebulaLoggerPoc@1.0.0-0-feature/US-0000024": "04tgL00000089kTQAQ"
+    "NebulaLoggerPoc@1.0.0-0-feature/US-0000024": "04tgL00000089kTQAQ",
+    "NebulaLoggerPoc@0.1.0-1-feature/US-0000024": "04tgL0000008C0nQAE"
   }
 }
