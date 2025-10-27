@@ -19,6 +19,14 @@
       "default": false,
       "package": "HelloWorld",
       "versionDescription": ""
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "HelloWorld2",
+      "default": false,
+      "package": "HelloWorld2",
+      "versionDescription": ""
     }
   ],
   "name": "StandardProject",
@@ -30,6 +38,7 @@
     "NebulaLoggerPoc@1.0.0-0-feature/US-0000024": "04tgL00000089kTQAQ",
     "NebulaLoggerPoc@0.1.0-1-main": "04tgL00000089nhQAA",
     "HelloWorld": "0HogL0000000egbSAA",
-    "HelloWorld@0.1.0-1-feature/US-0000025": "04tgL0000008BMTQA2"
+    "HelloWorld@0.1.0-1-feature/US-0000025": "04tgL0000008BMTQA2",
+    "HelloWorld2": "0HogL0000000eofSAA"
   }
 }
