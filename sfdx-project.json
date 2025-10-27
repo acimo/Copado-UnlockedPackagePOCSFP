@@ -30,6 +30,11 @@
         }
       ],
       "path": "HelloWorld2",
+      "dependencies": [
+        {
+          "package": "PackageBase"
+        }
+      ],
       "default": false,
       "package": "HelloWorld2",
       "versionDescription": ""
@@ -45,6 +50,7 @@
     "NebulaLoggerPoc@0.1.0-1-main": "04tgL00000089nhQAA",
     "HelloWorld": "0HogL0000000egbSAA",
     "HelloWorld@0.1.0-1-feature/US-0000025": "04tgL0000008BMTQA2",
-    "HelloWorld2": "0HogL0000000eofSAA"
+    "HelloWorld2": "0HogL0000000eofSAA",
+    "HelloWorld2@0.1.0-1-feature/US-0000026": "04tgL0000008JGnQAM"
   }
 }
