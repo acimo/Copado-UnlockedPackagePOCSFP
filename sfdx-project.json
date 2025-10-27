@@ -37,6 +37,11 @@
     {
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
+      "dependencies": [
+        {
+          "package": "PackageBase"
+        }
+      ],
       "path": "HelloWorld3",
       "default": false,
       "package": "HelloWorld3",
