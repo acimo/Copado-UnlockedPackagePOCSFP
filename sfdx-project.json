@@ -30,13 +30,16 @@
         }
       ],
       "path": "HelloWorld2",
-      "dependencies": [
-        {
-          "package": "PackageBase"
-        }
-      ],
       "default": false,
       "package": "HelloWorld2",
+      "versionDescription": ""
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "HelloWorld3",
+      "default": false,
+      "package": "HelloWorld3",
       "versionDescription": ""
     }
   ],
@@ -51,6 +54,7 @@
     "HelloWorld": "0HogL0000000egbSAA",
     "HelloWorld@0.1.0-1-feature/US-0000025": "04tgL0000008BMTQA2",
     "HelloWorld2": "0HogL0000000eofSAA",
-    "HelloWorld2@0.1.0-1-feature/US-0000026": "04tgL0000008JGnQAM"
+    "HelloWorld2@0.1.0-1-feature/US-0000026": "04tgL0000008JGnQAM",
+    "HelloWorld3": "0HogL0000000etVSAQ"
   }
 }
