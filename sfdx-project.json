@@ -2,7 +2,8 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": false
+      "package": "PackageBase",
+      "default": true
     },
     {
       "versionName": "ver 0.1",
@@ -24,7 +25,12 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "path": "HelloWorld2",
-      "default": true,
+      "dependencies": [
+        {
+          "package": "PackageBase"
+        }
+      ],
+      "default": false,
       "package": "HelloWorld2",
       "versionDescription": ""
     }
