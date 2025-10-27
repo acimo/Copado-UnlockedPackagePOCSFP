@@ -28,7 +28,7 @@
         {
           "package": "PackageBase"
         }
-      ]
+      ],
       "path": "HelloWorld2",
       "default": false,
       "package": "HelloWorld2",
