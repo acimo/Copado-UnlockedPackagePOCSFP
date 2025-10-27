@@ -3,7 +3,7 @@
     {
       "path": "force-app",
       "package": "PackageBase",
-      "default": true
+      "default": false
     },
     {
       "versionName": "ver 0.1",
@@ -43,7 +43,7 @@
         }
       ],
       "path": "HelloWorld3",
-      "default": false,
+      "default": true,
       "package": "HelloWorld3",
       "versionDescription": ""
     }
